@@ -11,8 +11,8 @@
 #include <WiFi.h>
 #include <Firebase_ESP_Client.h>
 
-#define WIFI_SSID "XTRIM_ALMEIDA"
-#define WIFI_PASSWORD "edith195210"
+#define WIFI_SSID "Microcontroladores"
+#define WIFI_PASSWORD "raspy123"
 #define DATABASE_URL "proyectoembebidos-393fb-default-rtdb.firebaseio.com"
 
 FirebaseData fbdo;
